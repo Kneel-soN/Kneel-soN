@@ -1,5 +1,3 @@
-# Hi there, I'm Mark 👋
-
 > Software Developer · IT Consultant · Always learning
 
 📫 **mnpdinoso01@tip.edu.ph**
