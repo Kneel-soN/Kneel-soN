@@ -55,16 +55,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kneel-soN&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Kneel-soN&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
