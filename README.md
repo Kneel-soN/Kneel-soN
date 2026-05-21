@@ -3,7 +3,7 @@
 📫 **mnpdinoso01@tip.edu.ph**
 
 - 🔭 Currently working on **Commissions** and **School Work**
-- 🌱 Currently learning [TypeScript](https://www.typescriptlang.org/)
+- 🌱 Currently learning [Lua](https://www.lua.org/) and [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio)
 - 💬 Ask me about **Software Design/Development** or **IT Consultation**
 
 ---
