@@ -1,6 +1,6 @@
 > Software Developer · IT Consultant · Always learning
 
-📫 **mnpdinoso01@tip.edu.ph**
+📫 **fishda101@gmail.com**
 
 - 🔭 Currently working on **Game/Experience in Roblox**
 - 🌱 Currently learning [Lua](https://www.lua.org/) and [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio)
