@@ -2,7 +2,7 @@
 
 📫 **fishda101@gmail.com**
 
-- 🔭 Currently working on **Game/Experience in Roblox**
+- 🔭 Currently working on a **Game/Experience in Roblox**
 - 🌱 Currently learning [Lua](https://www.lua.org/) and [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio)
 - 💬 Ask me about **Software Design/Development** or **IT Consultation**
 
